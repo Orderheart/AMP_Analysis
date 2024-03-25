@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/github/languages/top/Orderheart/Machine_Learning_AMP_Analysis?color=red" alt="languages-top" />
 ## Ⅰ. Data Collection
 
 ### Positive Antimicrobial Peptides:
