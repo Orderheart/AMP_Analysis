@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/github/languages/top/Orderheart/Machine_Learning_AMP_Analysis?color=red" alt="languages-top" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Machine_Learning-8A2BE2"> <img src="https://img.shields.io/github/languages/top/Orderheart/Machine_Learning_AMP_Analysis?color=red" alt="languages-top" /> 
+
 ## Ⅰ. Data Collection
 
 ### Positive Antimicrobial Peptides:
