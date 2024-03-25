@@ -23,7 +23,7 @@
 
 ### Negative Antimicrobial Peptides:
 
-**Dataset source：**AntiBP2
+**Dataset source：** AntiBP2
 
 **Filter Criteria:** Not possessing antibacterial properties
 
